@@ -1,0 +1,415 @@
+{
+    "schemaVersion":  2,
+    "generatedAt":  "2026-10-19T17:32:28.1868899Z",
+    "title":  "Design System: La Guía en audio",
+    "extensions":  {
+                       "colorMeta":  {
+                                         "hue-teal":  {
+                                                          "role":  "primary",
+                                                          "displayName":  "Ring Teal",
+                                                          "canonical":  "#0e6a64",
+                                                          "tonalRamp":  [
+                                                                            "#04201e",
+                                                                            "#073532",
+                                                                            "#0a4a46",
+                                                                            "#0c5a55",
+                                                                            "#3e8883",
+                                                                            "#6ea6a2",
+                                                                            "#9fc3c1",
+                                                                            "#cfe1e0"
+                                                                        ]
+                                                      },
+                                         "hue-brick":  {
+                                                           "role":  "primary",
+                                                           "displayName":  "Ring Brick",
+                                                           "canonical":  "#a83f2b",
+                                                           "tonalRamp":  [
+                                                                             "#32130d",
+                                                                             "#542016",
+                                                                             "#762c1e",
+                                                                             "#8f3625",
+                                                                             "#b96555",
+                                                                             "#cb8c80",
+                                                                             "#dcb2aa",
+                                                                             "#eed9d5"
+                                                                         ]
+                                                       },
+                                         "hue-plum":  {
+                                                          "role":  "primary",
+                                                          "displayName":  "Ring Plum",
+                                                          "canonical":  "#6a3a5e",
+                                                          "tonalRamp":  [
+                                                                            "#20111c",
+                                                                            "#351d2f",
+                                                                            "#4a2942",
+                                                                            "#5a3150",
+                                                                            "#88617e",
+                                                                            "#a6899e",
+                                                                            "#c3b0bf",
+                                                                            "#e1d8df"
+                                                                        ]
+                                                      },
+                                         "hue-ink-blue":  {
+                                                              "role":  "primary",
+                                                              "displayName":  "Ring Ink Blue",
+                                                              "canonical":  "#25497c",
+                                                              "tonalRamp":  [
+                                                                                "#0b1625",
+                                                                                "#12243e",
+                                                                                "#1a3357",
+                                                                                "#1f3e69",
+                                                                                "#516d96",
+                                                                                "#7c92b0",
+                                                                                "#a8b6cb",
+                                                                                "#d3dbe5"
+                                                                            ]
+                                                          },
+                                         "hue-olive":  {
+                                                           "role":  "primary",
+                                                           "displayName":  "Ring Olive",
+                                                           "canonical":  "#566a2c",
+                                                           "tonalRamp":  [
+                                                                             "#1a200d",
+                                                                             "#2b3516",
+                                                                             "#3c4a1f",
+                                                                             "#495a25",
+                                                                             "#788856",
+                                                                             "#9aa680",
+                                                                             "#bbc3ab",
+                                                                             "#dde1d5"
+                                                                         ]
+                                                       },
+                                         "hue-ochre":  {
+                                                           "role":  "primary",
+                                                           "displayName":  "Ring Ochre",
+                                                           "canonical":  "#8a5b10",
+                                                           "tonalRamp":  [
+                                                                             "#291b05",
+                                                                             "#452e08",
+                                                                             "#61400b",
+                                                                             "#754d0e",
+                                                                             "#a17c40",
+                                                                             "#b99d70",
+                                                                             "#d0bd9f",
+                                                                             "#e8decf"
+                                                                         ]
+                                                       },
+                                         "hue-pine":  {
+                                                          "role":  "primary",
+                                                          "displayName":  "Ring Pine",
+                                                          "canonical":  "#2e5e44",
+                                                          "tonalRamp":  [
+                                                                            "#0e1c14",
+                                                                            "#172f22",
+                                                                            "#204230",
+                                                                            "#27503a",
+                                                                            "#587e69",
+                                                                            "#829e8f",
+                                                                            "#abbfb4",
+                                                                            "#d5dfda"
+                                                                        ]
+                                                      },
+                                         "paper":  {
+                                                       "role":  "neutral",
+                                                       "displayName":  "Day Paper",
+                                                       "canonical":  "#f3eee4",
+                                                       "tonalRamp":  [
+                                                                         "#494744",
+                                                                         "#7a7772",
+                                                                         "#aaa7a0",
+                                                                         "#cfcac2",
+                                                                         "#f5f1e9",
+                                                                         "#f8f5ef",
+                                                                         "#faf8f4",
+                                                                         "#fdfcfa"
+                                                                     ]
+                                                   },
+                                         "paper-raised":  {
+                                                              "role":  "neutral",
+                                                              "displayName":  "Raised Paper",
+                                                              "canonical":  "#fbf8f1",
+                                                              "tonalRamp":  [
+                                                                                "#4b4a48",
+                                                                                "#7e7c78",
+                                                                                "#b0aea9",
+                                                                                "#d5d3cd",
+                                                                                "#fcf9f4",
+                                                                                "#fdfbf7",
+                                                                                "#fdfcf9",
+                                                                                "#fefefc"
+                                                                            ]
+                                                          },
+                                         "ink":  {
+                                                     "role":  "neutral",
+                                                     "displayName":  "Ink",
+                                                     "canonical":  "#1f1c17",
+                                                     "tonalRamp":  [
+                                                                       "#090807",
+                                                                       "#100e0c",
+                                                                       "#161410",
+                                                                       "#1a1814",
+                                                                       "#4c4945",
+                                                                       "#797774",
+                                                                       "#a5a4a2",
+                                                                       "#d2d2d1"
+                                                                   ]
+                                                 },
+                                         "ink-soft":  {
+                                                          "role":  "neutral",
+                                                          "displayName":  "Soft Ink",
+                                                          "canonical":  "#5b544a",
+                                                          "tonalRamp":  [
+                                                                            "#1b1916",
+                                                                            "#2e2a25",
+                                                                            "#403b34",
+                                                                            "#4d473f",
+                                                                            "#7c766e",
+                                                                            "#9d9892",
+                                                                            "#bdbbb7",
+                                                                            "#dedddb"
+                                                                        ]
+                                                      },
+                                         "rule":  {
+                                                      "role":  "neutral",
+                                                      "displayName":  "Paper Rule",
+                                                      "canonical":  "#d9d0bf",
+                                                      "tonalRamp":  [
+                                                                        "#413e39",
+                                                                        "#6c6860",
+                                                                        "#989286",
+                                                                        "#b8b1a2",
+                                                                        "#e1d9cc",
+                                                                        "#e8e3d9",
+                                                                        "#f0ece5",
+                                                                        "#f7f6f2"
+                                                                    ]
+                                                  },
+                                         "on-band":  {
+                                                         "role":  "neutral",
+                                                         "displayName":  "On-band Cream",
+                                                         "canonical":  "#fff7e8",
+                                                         "tonalRamp":  [
+                                                                           "#4d4a46",
+                                                                           "#807c74",
+                                                                           "#b2ada2",
+                                                                           "#d9d2c5",
+                                                                           "#fff9ed",
+                                                                           "#fffaf1",
+                                                                           "#fffcf6",
+                                                                           "#fffdfa"
+                                                                       ]
+                                                     },
+                                         "cream":  {
+                                                       "role":  "neutral",
+                                                       "displayName":  "Cream",
+                                                       "canonical":  "#fbf4e4",
+                                                       "tonalRamp":  [
+                                                                         "#4b4944",
+                                                                         "#7e7a72",
+                                                                         "#b0aba0",
+                                                                         "#d5cfc2",
+                                                                         "#fcf6e9",
+                                                                         "#fdf8ef",
+                                                                         "#fdfbf4",
+                                                                         "#fefdfa"
+                                                                     ]
+                                                   },
+                                         "paper-night":  {
+                                                             "role":  "neutral",
+                                                             "displayName":  "Night Paper",
+                                                             "canonical":  "#17130f",
+                                                             "tonalRamp":  [
+                                                                               "#070605",
+                                                                               "#0c0a08",
+                                                                               "#100d0a",
+                                                                               "#14100d",
+                                                                               "#45423f",
+                                                                               "#74716f",
+                                                                               "#a2a19f",
+                                                                               "#d1d0cf"
+                                                                           ]
+                                                         }
+                                     },
+                       "typographyMeta":  {
+                                              "display":  {
+                                                              "displayName":  "Display",
+                                                              "purpose":  "Day title in the band only."
+                                                          },
+                                              "headline":  {
+                                                               "displayName":  "Headline",
+                                                               "purpose":  "Section headings under a 3px ink rule."
+                                                           },
+                                              "title":  {
+                                                            "displayName":  "Title",
+                                                            "purpose":  "Tab letters and the Escuchar label."
+                                                        },
+                                              "body":  {
+                                                           "displayName":  "Body",
+                                                           "purpose":  "Literata reading text, scaled by --read-scale."
+                                                       },
+                                              "label":  {
+                                                            "displayName":  "Label",
+                                                            "purpose":  "Interface labels, buttons, chips."
+                                                        },
+                                              "caption":  {
+                                                              "displayName":  "Caption",
+                                                              "purpose":  "Dates, meta, notes."
+                                                          }
+                                          },
+                       "shadows":  [
+                                       {
+                                           "name":  "pill-lift",
+                                           "value":  "0 2px 0 rgb(0 0 0 / 0.18), 0 6px 14px rgb(0 0 0 / 0.16)",
+                                           "purpose":  "Escuchar pill only."
+                                       },
+                                       {
+                                           "name":  "player-lift",
+                                           "value":  "0 -8px 24px rgb(0 0 0 / 0.06)",
+                                           "purpose":  "Fixed player bar."
+                                       },
+                                       {
+                                           "name":  "popover",
+                                           "value":  "0 14px 40px rgb(0 0 0 / 0.22)",
+                                           "purpose":  "Settings and speed popovers."
+                                       }
+                                   ],
+                       "motion":  [
+                                      {
+                                          "name":  "ease",
+                                          "value":  "cubic-bezier(0.22, 1, 0.36, 1)",
+                                          "purpose":  "All hover, press and highlight transitions (150 to 280ms)."
+                                      },
+                                      {
+                                          "name":  "stamp-in",
+                                          "value":  "280ms ease, scale 1.8 to 1, rotate -18 to -6 deg",
+                                          "purpose":  "Listened stamp lands once."
+                                      }
+                                  ],
+                       "breakpoints":  [
+                                           {
+                                               "value":  "960px",
+                                               "name":  "desktop"
+                                           }
+                                       ]
+                   },
+    "components":  [
+                       {
+                           "name":  "Escuchar Pill",
+                           "kind":  "button",
+                           "refersTo":  "play-pill",
+                           "description":  "The one primary action, cream on the week-colour band.",
+                           "html":  "\u003cdiv class=\"ds-band\"\u003e\u003cbutton class=\"ds-play\"\u003e\u003csvg viewBox=\"0 0 24 24\" fill=\"currentColor\"\u003e\u003cpath d=\"M8 5v14l11-7z\"/\u003e\u003c/svg\u003e\u003cspan\u003eEscuchar\u003c/span\u003e\u003c/button\u003e\u003c/div\u003e",
+                           "css":  ".ds-band{background:var(--hue,#0e6a64);color:#fff7e8;padding:16px}.ds-play{display:inline-flex;align-items:center;gap:12px;height:56px;padding:0 24px 0 16px;border:0;border-radius:999px;background:var(--cream,#fbf4e4);color:#1f1c17;font:700 1.25rem/1 \"Bricolage Grotesque\",sans-serif;box-shadow:0 2px 0 rgb(0 0 0/.18),0 6px 14px rgb(0 0 0/.16);cursor:pointer;transition:transform 150ms,background-color 150ms}.ds-play svg{width:1.6rem;height:1.6rem;color:var(--hue,#0e6a64)}.ds-play:hover{background:#fff}.ds-play:active{transform:translateY(1px) scale(.985);box-shadow:0 1px 0 rgb(0 0 0/.2)}.ds-play:focus-visible{outline:2px solid #fff7e8;outline-offset:2px}"
+                       },
+                       {
+                           "name":  "Guide Tabs",
+                           "kind":  "nav",
+                           "refersTo":  "guide-tab",
+                           "description":  "Seven day dividers hanging from the band; the selected tab fuses to the paper.",
+                           "html":  "\u003cdiv class=\"ds-tabs\"\u003e\u003cbutton class=\"ds-tab\"\u003e\u003cb\u003eL\u003c/b\u003e\u003cspan\u003e12\u003c/span\u003e\u003c/button\u003e\u003cbutton class=\"ds-tab\" aria-selected=\"true\"\u003e\u003cb\u003eM\u003c/b\u003e\u003cspan\u003e13\u003c/span\u003e\u003c/button\u003e\u003cbutton class=\"ds-tab\"\u003e\u003cb\u003eM\u003c/b\u003e\u003cspan\u003e14\u003c/span\u003e\u003c/button\u003e\u003c/div\u003e",
+                           "css":  ".ds-tabs{display:grid;grid-template-columns:repeat(3,72px);gap:3px;padding:16px 8px 0;background:var(--hue,#0e6a64)}.ds-tab{display:grid;justify-items:center;align-content:end;gap:1px;min-height:60px;padding:8px 0;border:1px solid transparent;border-bottom:0;border-radius:12px 12px 0 0;background:transparent;color:#fff7e8;font-family:\"Bricolage Grotesque\",sans-serif;cursor:pointer}.ds-tab b{font:700 1.25rem/1 \"Bricolage Grotesque\",sans-serif}.ds-tab span{font:500 .8125rem/1 \"Bricolage Grotesque\",sans-serif;opacity:.85}.ds-tab:hover{background:rgb(255 247 232/.14)}.ds-tab[aria-selected=true]{background:#f3eee4;color:#1f1c17;border-color:rgb(255 247 232/.24)}.ds-tab:focus-visible{outline:2px solid #fff7e8;outline-offset:2px}"
+                       },
+                       {
+                           "name":  "Section Heading",
+                           "kind":  "custom",
+                           "refersTo":  "section-heading",
+                           "description":  "Heavy ink rule that opens every section of the printed page.",
+                           "html":  "\u003ch3 class=\"ds-h\"\u003eLo que dice la Biblia\u003c/h3\u003e",
+                           "css":  ".ds-h{margin:0;font:680 1.5rem/1.15 \"Bricolage Grotesque\",sans-serif;letter-spacing:-.015em;color:#1f1c17}.ds-h::before{content:\"\";display:block;height:3px;margin-bottom:12px;background:#1f1c17}"
+                       },
+                       {
+                           "name":  "Reading Segment (active)",
+                           "kind":  "custom",
+                           "refersTo":  "reading-segment",
+                           "description":  "The sentence being read: week-tint plus fine outline, no side stripe.",
+                           "html":  "\u003cp class=\"ds-seg\"\u003eY vio Dios que era bueno todo lo que había hecho.\u003c/p\u003e",
+                           "css":  ".ds-seg{margin:0;padding:2.4px 8px;border-radius:8px;font:400 1.0625rem/1.72 Literata,Georgia,serif;color:#1f1c17;background:color-mix(in oklab,var(--hue,#0e6a64) 11%,#f3eee4);box-shadow:inset 0 0 0 1.5px color-mix(in oklab,var(--hue,#0e6a64) 62%,#f3eee4)}"
+                       },
+                       {
+                           "name":  "Question Box",
+                           "kind":  "card",
+                           "refersTo":  "question-box",
+                           "description":  "Raised paper box with ruled answer lines.",
+                           "html":  "\u003cdiv class=\"ds-q\"\u003e¿Qué aprendes hoy sobre la creación?\u003c/div\u003e",
+                           "css":  ".ds-q{background:#fbf8f1;border:1px solid #d9d0bf;border-radius:14px;padding:16px;font:500 1.0625rem/1.6 Literata,Georgia,serif;color:#1f1c17}.ds-q::after{content:\"\";display:block;height:3.3rem;margin-top:12px;background:repeating-linear-gradient(to bottom,transparent 0,transparent calc(1.65rem - 1px),#d9d0bf calc(1.65rem - 1px),#d9d0bf 1.65rem)}"
+                       },
+                       {
+                           "name":  "Speed Chip",
+                           "kind":  "chip",
+                           "refersTo":  "speed-chip",
+                           "description":  "Pill toggle in the player; pressed fills with ink.",
+                           "html":  "\u003cbutton class=\"ds-chip\"\u003e1x\u003c/button\u003e \u003cbutton class=\"ds-chip\" aria-pressed=\"true\"\u003e1.25x\u003c/button\u003e",
+                           "css":  ".ds-chip{min-width:3.2rem;height:2.5rem;padding:0 12px;border-radius:999px;border:1px solid #d9d0bf;background:transparent;color:#1f1c17;font:650 .9375rem/1 \"Bricolage Grotesque\",sans-serif;cursor:pointer;transition:background-color 150ms}.ds-chip:hover{background:rgb(31 28 23/.08)}.ds-chip[aria-pressed=true]{background:#1f1c17;color:#f3eee4;border-color:#1f1c17}.ds-chip:focus-visible{outline:2px solid #1f1c17;outline-offset:2px}"
+                       },
+                       {
+                           "name":  "Week Row",
+                           "kind":  "custom",
+                           "refersTo":  "week-number-tile",
+                           "description":  "Week-colour number tile, name and a segmented progress bar.",
+                           "html":  "\u003cdiv class=\"ds-week\"\u003e\u003cspan class=\"ds-num\"\u003e12\u003c/span\u003e\u003cspan\u003e\u003cb\u003eLa creación\u003c/b\u003e\u003ci class=\"ds-bar\"\u003e\u003cu class=\"d\"\u003e\u003c/u\u003e\u003cu class=\"d\"\u003e\u003c/u\u003e\u003cu\u003e\u003c/u\u003e\u003c/i\u003e\u003c/span\u003e\u003c/div\u003e",
+                           "css":  ".ds-week{display:grid;grid-template-columns:52px 1fr;gap:12px;align-items:center;font-family:\"Bricolage Grotesque\",sans-serif}.ds-num{display:grid;place-items:center;width:52px;height:52px;border-radius:10px;background:var(--hue,#0e6a64);color:#fff7e8;font:780 1.6rem/1 \"Bricolage Grotesque\",sans-serif}.ds-week b{font:650 1.0625rem/1.25 \"Bricolage Grotesque\",sans-serif}.ds-bar{display:flex;gap:3px;margin-top:8px}.ds-bar u{flex:1;height:4px;border-radius:2px;background:#d9d0bf;text-decoration:none}.ds-bar u.d{background:var(--hue,#0e6a64)}"
+                       }
+                   ],
+    "narrative":  {
+                      "northStar":  "La Guía de Estudio, a todo color",
+                      "overview":  "A day of the Guía is a printed page you can also hear. The page is warm printing paper set in Literata; the audio lives inside it. One saturated week colour floods the title band edge to edge and then recedes into small marks. Seven day tabs hang from the band like guide dividers; a listened day is stamped. Night is the same page on warm dark paper with the week colour dimmed.",
+                      "keyCharacteristics":  [
+                                                 "Colour is carried by data (the week), not by chrome.",
+                                                 "Flat, tonal depth; a hairline rule is the main separator.",
+                                                 "Bricolage Grotesque names and operates, Literata is the text read and heard.",
+                                                 "Pill for actions, soft 8/14px corners for content, 12px-topped tabs for dividers."
+                                             ],
+                      "rules":  [
+                                    {
+                                        "section":  "colors",
+                                        "body":  "One week colour fills the band edge to edge and nowhere else at full strength; below the band it appears only as small marks or as a tint of paper.",
+                                        "name":  "The One Flood Rule"
+                                    },
+                                    {
+                                        "section":  "colors",
+                                        "body":  "In dark mode the band is the week hue mixed 66% toward band-shade; light mode is 100%. Marks on dark paper are lightened with a mix toward ink instead of using the raw hue.",
+                                        "name":  "The Night Dimming Rule"
+                                    },
+                                    {
+                                        "section":  "colors",
+                                        "body":  "Week colour is a data rule: lesson number modulo 7 selects the hue. Do not hand-pick a hue for a surface.",
+                                        "name":  "The Hue-By-Lesson Rule"
+                                    },
+                                    {
+                                        "section":  "colors",
+                                        "body":  "Every ring hue was audited numerically against on-band cream at 4.5:1 or better (research/contrast.mjs); the dark 66% band mix was audited the same way.",
+                                        "name":  "The Contrast-Audited Ring Rule"
+                                    },
+                                    {
+                                        "section":  "typography",
+                                        "body":  "Literata is only for text that is read and heard; Bricolage is for everything that names or operates.",
+                                        "name":  "The Two Voices Rule"
+                                    },
+                                    {
+                                        "section":  "typography",
+                                        "body":  "Labels are sentence case at normal tracking; hierarchy comes from weight and size.",
+                                        "name":  "The No-Uppercase Rule"
+                                    },
+                                    {
+                                        "section":  "elevation",
+                                        "body":  "Reading content has no shadow; \"you are here\" is tint plus a 1.5px inset outline, never a side stripe or a lift.",
+                                        "name":  "The Paper Stays Flat Rule"
+                                    }
+                                ],
+                      "dos":  [
+                                  "Do let the week colour flood the band edge to edge and appear below it only as small marks or a paper tint.",
+                                  "Do set lesson text in Literata and everything operable in Bricolage Grotesque.",
+                                  "Do keep reading surfaces flat; show the spoken position with the tinted, outlined segment.",
+                                  "Do use pills for actions, 8/14px corners for content, and a 3px ink rule to open each section.",
+                                  "Do dim the band to the 66% mix in night and lighten dark-paper marks toward ink.",
+                                  "Do run any new hue or band mix through research/contrast.mjs (4.5:1 against on-band)."
+                              ],
+                      "donts":  [
+                                    "Don\u0027t build an album-art, cover-image, or dark media-player surface; the audio belongs inside the page.",
+                                    "Don\u0027t use side-stripe borders or box shadows on reading content to mark state.",
+                                    "Don\u0027t show more than one week colour per screen or pick a hue by hand; the lesson number decides.",
+                                    "Don\u0027t use uppercase, tracked labels in the interface.",
+                                    "Don\u0027t treat the stamp\u0027s turbulence filter or the cool active fill in an ink-blue week as house rules; they are carries of this build."
+                                ]
+                  }
+}
