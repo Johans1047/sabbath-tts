@@ -8,7 +8,7 @@ Status: **research, generator and first PWA UI done**. Verified on lesson 4 / da
 # Guía de uso
 
 Dos pasos: **(1) generar el audio** del trimestre (una vez, tarda horas) y **(2) abrir la app** para escucharlo.
-Todo se ejecuta dentro de la carpeta del proyecto, `C:\Users\jonathan.salazar1\Tools\sabbath-tts`.
+Todo se ejecuta dentro de la carpeta del proyecto, `sabbath-tts`.
 
 ## 1. Primera vez
 
